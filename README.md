@@ -11,6 +11,32 @@
 ![Redux](https://img.shields.io/badge/-Redux-090909??style=for-the-badge&logo=Redux)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-090909??style=for-the-badge&logo=MongoDB)
 
+
+#### мой работы лучшие работы
+##### react пицца стек технологий :
+- **ReactJS 18**
+- **TypeScript**
+- **Redux Toolkit** (хранение данных / пицц)
+- **React Router v6** (навигация)
+- **Axios ** (отправка запроса на бэкенд)
+- React Hooks (хуки)
+- Prettier (форматирование кода)
+- CSS-Modules / SCSS (стилизация)
+- React Content Loader (скелетон)
+- React Pagination (пагинация)
+- Lodash.Debounce
+- Code Splitting, React Loadable, useWhyDidYouUpdate
+- ссылка на проект при переходи перейдите на главную https://kurmangali06.github.io/pizza/
+
+##### nest.js react пицца стек технологий
+- ссылка https://pizza-food-nest-fops.vercel.app
+- ссылка на репозиторий https://github.com/kurmangali06/PizzaFoodNEST
+- стек технологий
+- react-hot-toast
+- zustand
+- sanity
+- mantine
+- iconscout/react-unicons
 ### Связь со мной
 [![Telegramm](https://img.shields.io/badge/-Telegramm-090909??style=for-the-badge&logo=Telegram)](https://t.me/Kurmangali_kusainoff)
 [![whatsapp](https://img.shields.io/badge/-whatsapp-090909??style=for-the-badge&logo=whatsapp)](https://wa.me/87021930368)
