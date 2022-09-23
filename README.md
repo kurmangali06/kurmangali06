@@ -28,7 +28,7 @@
 - Code Splitting, React Loadable, useWhyDidYouUpdate
 - ссылка на проект при переходи перейдите на главную https://kurmangali06.github.io/pizza/
 
-##### nest.js react пицца стек технологий
+##### next  пицца стек технологий
 - ссылка https://pizza-food-nest-fops.vercel.app
 - ссылка на репозиторий https://github.com/kurmangali06/PizzaFoodNEST
 - стек технологий
