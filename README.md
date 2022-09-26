@@ -19,9 +19,9 @@
 - **Redux Toolkit** (хранение данных / пицц)
 - **React Router v6** (навигация)
 - React Hooks (хуки)
-API https://rapidapi.com
-ссылка https://melodic-tiramisu-332ed3.netlify.app
-на репозитория https://github.com/kurmangali06/music-app
+- API https://rapidapi.com
+- ссылка https://melodic-tiramisu-332ed3.netlify.app
+- репозитория https://github.com/kurmangali06/music-app
 
 ##### react пицца стек технологий :
 - **ReactJS 18**
