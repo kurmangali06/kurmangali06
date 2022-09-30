@@ -16,8 +16,7 @@
 
 ### клон Twitter 
 https://twitter-clone-nextjs-and-tailwindcss-ki2dsxe4n.vercel.app
-репозиторий
-https://github.com/kurmangali06/Twitter-Clone-Nextjs-and-Tailwindcss
+
 - cтек технологий
 - next.js
 - FIREBASE
