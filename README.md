@@ -14,7 +14,22 @@
 
 #### мой работы лучшие работы
 
-#####Music App with React стек технологий:
+### клон Twitter 
+https://twitter-clone-nextjs-and-tailwindcss-ki2dsxe4n.vercel.app
+репозиторий
+https://github.com/kurmangali06/Twitter-Clone-Nextjs-and-Tailwindcss
+- cтек технологий
+- next.js
+- FIREBASE
+- Heroicons
+- Tailwind CSS
+- react-moment
+- next-auth
+- moment-timezone
+- framer motion
+- recoil
+
+####  Music App with React стек технологий:
 - Tailwind
 - **Redux Toolkit** (хранение данных / пицц)
 - **React Router v6** (навигация)
@@ -23,7 +38,7 @@
 - ссылка https://melodic-tiramisu-332ed3.netlify.app
 - репозитория https://github.com/kurmangali06/music-app
 
-##### react пицца стек технологий :
+##### React пицца стек технологий :
 - **ReactJS 18**
 - **TypeScript**
 - **Redux Toolkit** (хранение данных / пицц)
@@ -38,7 +53,7 @@
 - Code Splitting, React Loadable, useWhyDidYouUpdate
 - ссылка на проект при переходи перейдите на главную https://kurmangali06.github.io/pizza/
 
-##### next  пицца стек технологий
+##### Next  пицца стек технологий
 - ссылка https://pizza-food-nest-fops.vercel.app
 - ссылка на репозиторий https://github.com/kurmangali06/PizzaFoodNEST
 - стек технологий

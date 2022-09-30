@@ -1,0 +1,6 @@
+https://canonium.com/category/typescript
+https://dou.ua/lenta/articles/typescript-1/
+https://dou.ua/lenta/articles/typescript-2/
+escript-book
+
+https://github.com/etroynov/typescript-book
