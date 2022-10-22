@@ -37,21 +37,6 @@ https://twitter-clone-nextjs-and-tailwindcss-ki2dsxe4n.vercel.app
 - ссылка https://melodic-tiramisu-332ed3.netlify.app
 - репозитория https://github.com/kurmangali06/music-app
 
-##### React пицца стек технологий :
-- **ReactJS 18**
-- **TypeScript**
-- **Redux Toolkit** (хранение данных / пицц)
-- **React Router v6** (навигация)
-- **Axios ** (отправка запроса на бэкенд)
-- React Hooks (хуки)
-- Prettier (форматирование кода)
-- CSS-Modules / SCSS (стилизация)
-- React Content Loader (скелетон)
-- React Pagination (пагинация)
-- Lodash.Debounce
-- Code Splitting, React Loadable, useWhyDidYouUpdate
-- ссылка на проект при переходи перейдите на главную https://kurmangali06.github.io/pizza/
-
 ##### Next  пицца стек технологий
 - ссылка https://pizza-food-nest-fops.vercel.app
 - ссылка на репозиторий https://github.com/kurmangali06/PizzaFoodNEST
@@ -65,7 +50,7 @@ https://twitter-clone-nextjs-and-tailwindcss-ki2dsxe4n.vercel.app
 #### MERN проекты прокат автомобилей:
 https://car-fronted-ox52.vercel.app
 
-####### Клиентская часть аренды автомобиля
+###### Клиентская часть аренды автомобиля
 в этом проекты реализована клиентская часть аренды автомобилей, регистрация и авторизация на главной страницы рендериться лист машин и реализован функционал сортировка по маркам автомобилей и пойск по маркам автобилей и календарь и когда выбирает числа с какого числа до кого то свободные авто идут первыми далее при клики на выбранный автомобиль вы переходи на страницу автобиля где его детально описываеться его характеристики и реализована цена аренды с какого чисел вы выбирете можно выбрать с водилем тем самым цена вырастит стех технологий
 antd axios moment react-router-dom react-toastify, redux
 
