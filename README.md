@@ -3,7 +3,7 @@
 
 ### Использую следующие технологии:
 ![React](https://img.shields.io/badge/-React-090909??style=for-the-badge&logo=react)
-![Javaskript](https://img.shields.io/badge/-Javaskript-000??style=for-the-badge&logo=JavaScript)
+![Javascript](https://img.shields.io/badge/-Javaskript-000??style=for-the-badge&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909??style=for-the-badge&logo=TypeScript)
 ![Next](https://img.shields.io/badge/-Next-090909??style=for-the-badge&logo=Next.js)
 ![Node](https://img.shields.io/badge/-Node-090909??style=for-the-badge&logo=Node.js)
