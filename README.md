@@ -3,6 +3,7 @@
 
 ### Использую следующие технологии:
 ![React](https://img.shields.io/badge/-React-090909??style=for-the-badge&logo=react)
+![Vue](https://img.shields.io/badge/-Vue-090909??style=for-the-badge&logo=vue)
 ![kurmangali06/sddddddddddddddd](https://img.shields.io/badge/-Javaskript-000??style=for-the-badge&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909??style=for-the-badge&logo=TypeScript)
 ![Next](https://img.shields.io/badge/-Next-090909??style=for-the-badge&logo=Next.js)
