@@ -1,4 +1,4 @@
-### Я fullstack разработчик 👋
+### Я frontend разработчик 👋
 
 
 ### Использую следующие технологии:
@@ -15,7 +15,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-090909??style=for-the-badge&logo=MongoDB)
 
 
-#### О себе
+### О себе
 Языки программирования: JavaScript, TypeScript, ES6
 Фреймворки: React, Vue, Nuxt3, Angular
 Библиотеки: Redux, Vuex, Pinia,
